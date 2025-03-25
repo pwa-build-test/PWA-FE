@@ -7,6 +7,9 @@ export default function Home() {
         <Button className="bg-red-400">
           button
         </Button>
+        <Button className="bg-amber-200">
+          button
+        </Button>
       </main>
       <footer className="row-start-3 flex gap-[24px] flex-wrap items-center justify-center" />
     </div>
