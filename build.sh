@@ -1,5 +1,5 @@
 #!/bin/sh
 cd ../
 mkdir output
-cp -R ./pwa-fe/* ./output
-cp -R ./output ./pwa-fe/
+cp -R ./PWA_FE/* ./output
+cp -R ./output ./PWA_FE/
